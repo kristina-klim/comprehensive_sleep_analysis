@@ -3,7 +3,7 @@
 
 The project analyzes sleep patterns using data from a sleep-tracking ring worn for 447 days. The objective is to understand the changes in sleep patterns Before and After Lockdown measures due to the COVID-19 pandemic.
 
-The project uses Python for data manipulation, visualization, and analysis. Libraries used include Pandas, Matplotlib, and Seaborn.
+The project uses Python for data manipulation, visualization, and analysis. Libraries used include `Pandas, Matplotlib, and Seaborn`
 
 ## **Project Overview**
 
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## **Usage**
 
-To run the analysis, follow the instructions in the Jupyter Notebook titled comprehensive_sleep_analysis**`.ipynb`**
+To run the analysis, follow the instructions in the Jupyter Notebook `comprehensive_sleep_analysis.ipynb`
 
 ## **Code Samples**
 
